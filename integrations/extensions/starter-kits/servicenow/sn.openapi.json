@@ -7,10 +7,10 @@
   },
   "servers": [
     {
-      "url": "https://{instance}.service-now.com",
+      "url": "https://dev92236.service-now.com/",
       "variables": {
         "instance": {
-          "default": "dev93773",
+          "default": "dev92236",
           "description": "Your PDI name"
         }
       }
